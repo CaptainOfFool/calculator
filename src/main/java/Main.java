@@ -2,6 +2,7 @@
  @author by Aleksandr Durnev
  @see потом создаёт кучу html доков при создании javadoc
  @see <a href=http://nooooooooooooooo.com/>НЕ ПЕРЕХОДИТЬ ПО ЭТОЙ ССЫЛКЕ</a>
+ add test for home PC
  */
 import java.util.Scanner;
 
