@@ -13,10 +13,10 @@ public class Main {
         System.out.println("2. Выбор максимальной длины слова из массива");
         Scanner check = new Scanner(System.in);
         String x = check.next();
-        if (x.equals("1")) {
+        if (x.equals("1") || x.equals("2")) {
             Choose choose = new Choose();
             choose.Calculator();
-        } else if (x.equals("2")) {
+        } else  {
             System.out.println("вы ввели неправильное число попробуйте снова");
         }
     }
